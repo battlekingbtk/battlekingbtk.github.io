@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://battlekingbtk.github.io</id>
     <title>Gridea</title>
-    <updated>2020-02-23T09:00:36.459Z</updated>
+    <updated>2020-02-23T09:03:17.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://battlekingbtk.github.io"/>
     <link rel="self" href="https://battlekingbtk.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://battlekingbtk.github.io/images/avatar.png</logo>
     <icon>https://battlekingbtk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[THIS IS A TEST FOR GRIDEA]]></title>
+        <id>https://battlekingbtk.github.io/post/this-is-a-test-for-gridea/</id>
+        <link href="https://battlekingbtk.github.io/post/this-is-a-test-for-gridea/">
+        </link>
+        <updated>2020-02-23T09:02:04.000Z</updated>
+        <content type="html"><![CDATA[<p>TESTING.....👾</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[UE4]  ADD COLLISION FOR ACTOR AND WHEN CHARACTER  MEET PTINT ACTOR'S NAME BY BLUEPRINT]]></title>
         <id>https://battlekingbtk.github.io/post/ue4-add-collision-for-actor-and-when-character-meet-ptint-actors-name-by-blueprint/</id>
